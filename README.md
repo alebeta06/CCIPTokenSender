@@ -8,7 +8,6 @@
 
 ### Este ejercicio de la clase magistral, utilizará Chainlink CCIP para transferir tokens de un contrato inteligente a un EOA (Cuenta de propiedad externa) en una cadena de bloques diferente (Avalanche Fuji -> Ethereum Sepolia).
 
-[https://andrej-rakic.gitbook.io/chainlink-ccip/ccip-masterclass/exercise-1-transfer-tokens](url)
 
 <img width="1437" alt="explorer" src="https://github.com/alebeta06/CCIPTokenSender/assets/94909757/5c027ae6-f03b-4042-b99f-37ed8b470a37">
 
